@@ -17,7 +17,7 @@ System.out.println(RomanNumerals.toRoman(8)); //Output: VIII
 
 Example:
 ```java
-//Converts integers to roman numerals.
+//Converts roman numerals to integers.
 System.out.println(RomanNumerals.toNumber("II")); //Output: 2
 System.out.println(RomanNumerals.toNumber("IV")); //Output: 4
 System.out.println(RomanNumerals.toNumber("VI")); //Output: 6
