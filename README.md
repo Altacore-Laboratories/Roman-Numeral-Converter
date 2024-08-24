@@ -24,4 +24,4 @@ System.out.println(RomanNumerals.toNumber("VI")); //Output: 6
 System.out.println(RomanNumerals.toNumber("VIII")); //Output: 8
 ```
 
-Overall, you can use this to convert numbers in high accuracy to & from roman numerals.
+Overall, you can use this to convert numbers in high accuracy to & from roman numerals. I recommend copying the entire `system` folder into your project & modifying the packages if neccessary. Once the package is propely set, it should work fine.
